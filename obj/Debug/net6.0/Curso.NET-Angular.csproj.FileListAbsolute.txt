@@ -1,0 +1,5 @@
+C:\Users\sim\Documents\Curso.NET-Angular\obj\Debug\net6.0\Curso.NET-Angular.csproj.AssemblyReference.cache
+C:\Users\sim\Documents\Curso.NET-Angular\obj\Debug\net6.0\Curso.NET-Angular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim\Documents\Curso.NET-Angular\obj\Debug\net6.0\Curso.NET-Angular.AssemblyInfoInputs.cache
+C:\Users\sim\Documents\Curso.NET-Angular\obj\Debug\net6.0\Curso.NET-Angular.AssemblyInfo.cs
+C:\Users\sim\Documents\Curso.NET-Angular\obj\Debug\net6.0\Curso.NET-Angular.csproj.CoreCompileInputs.cache
