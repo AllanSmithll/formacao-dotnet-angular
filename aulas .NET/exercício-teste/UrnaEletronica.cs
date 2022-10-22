@@ -11,7 +11,7 @@ List<Candidato> candidatos = new List<Candidato>();
 candidatos.Add(new Candidato("Allan", "45"));
 candidatos.Add(new Candidato("João", "40"));
 
-for (int i = 0; i < 10; i++);
+for (int i = 0; i < 10; i++)
 {
     Console.WriteLine($"Vote {candidatos[0].Numero} pra {candidatos[0].Nome} e {candidatos[1].Numero} pra {candidatos[1].Nome}\n");
     voto = Console.ReadLine();

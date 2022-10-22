@@ -5,7 +5,7 @@ public class Candidato
 {
     public string Nome { get; }
     public string Numero { get; }
-    public int Voto { get; }
+    public int Voto { get; set;}
 
     public Candidato(string nome, string numero)
     {
